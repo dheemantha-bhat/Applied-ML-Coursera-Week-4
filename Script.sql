@@ -1,4 +1,4 @@
-
+### sql script ####
 select docdt,count(distinct update_lid) from
 
 
